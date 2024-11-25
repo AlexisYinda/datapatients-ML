@@ -13,7 +13,9 @@ Here are the files included inside :
     - Pipfile.lock
     - Dockerfile
 
-About Patients-Data-Heart-Disease-Prediction.xlsx : 
+About Patients-Data-Heart-Disease-Prediction.xlsx : the file is to large(36469 ko), github requires 25000 ko.
+Here is the Kaggle links of the Data : 
+https://www.kaggle.com/datasets/raghavramani3232/patients-data-used-for-heart-disease/data
 
 Be careful, this is a large file which takes time to load its contents in the notebook.ipynb.
 It has the shape of 237630 lines and 35 variables
